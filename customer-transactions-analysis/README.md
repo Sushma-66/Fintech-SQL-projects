@@ -1,4 +1,4 @@
-# Fintech Customer & Transactions Analysis
+# Project -1 Fintech Customer & Transactions Analysis
 
 ## Overview
 This project simulates a **real-world fintech analytics scenario**. The goal is to analyze **customers, their accounts, and transaction behavior** using SQL joins and aggregation.  
@@ -103,4 +103,5 @@ The project covers **SQL joins, aggregations, and analysis**. Example tasks incl
 
 ## Author
 Sushma Bilidale  
+Github: https://github.com/Sushma-66
 
